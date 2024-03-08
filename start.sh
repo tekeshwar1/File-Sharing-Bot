@@ -3,4 +3,4 @@ git clone https://github.com/tekeshwar1/File-Sharing-Bot.git
 cd /MissPerfectURLBOT
 pip3 install -r requirements.txt
 echo "Starting Bot...."
-python3 bot.py
+python3 main.py
