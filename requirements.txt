@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-pyrogram==1.4.16
+pyrogram
 Pyromod==1.5
 numpy
 yt-dlp
