@@ -1,9 +1,23 @@
+https://github.com/Mahesh0253/pyrogram/archive/inline.zip
 # --- For-Bot-Working --------- #
 pyrogram
-TgCrypto
 Pyromod==1.5
-# --- For-Database ------------ #
-pymongo
+numpy
+yt-dlp
+Pillow
+hachoir
+olefile
+requests
+tgcrypto
+aiofiles
 dnspython
+motor[srv]
+beautifulsoup4
+humanize
+Flask==2.2.2
+gunicorn==20.1.0
 # --- For-Web-Response ------- #
-aiohttp
+aiohttp==3.8.1
+# --- For-Database ------------ #
+pymongo[srv]==3.12.3
+dnspython
